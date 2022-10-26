@@ -1,5 +1,4 @@
 <h2>Word Composition Problem </h2><br>
-As part of our interview process, we would like for you to write a solution to the following problem,  focusing on correctness, approach, quality and performance.  
 Problem Statement  <br>
 Write a program that:  <br>
 1. Reads provided files (Input_01.txt and Input_02.txt) containing alphabetically sorted words list (one  word per line, no spaces, all lower case) <br> 
